@@ -1,0 +1,14 @@
+uuid: d3251903-6f06-46b7-a8c7-4bfaacddace1
+name: Drupaltest
+mail: y.hromko@internetdevels.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
